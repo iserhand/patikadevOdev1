@@ -1,0 +1,23 @@
+{
+  "name": "reactv1",
+  "version": "1.0.0",
+  "description": "reactlearn",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "serhan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.6",
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-react": "^7.30.0",
+    "prettier": "2.7.1"
+  }
+}
